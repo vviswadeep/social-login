@@ -40,7 +40,7 @@ import {AuthGuardService} from './auth-guard.service';
       providers: [
         {
           id: GoogleLoginProvider.PROVIDER_ID,
-          provider: new GoogleLoginProvider('148517665605-jspahbqleats6lvlag9kasc2c11b5g7o.apps.googleusercontent.com')
+          provider: new GoogleLoginProvider('124617031950-3tltsrt6obhp7fdmp5ojvtmg7rv8lpgk.apps.googleusercontent.com')
         }
       ]
     }
